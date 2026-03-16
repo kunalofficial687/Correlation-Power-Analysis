@@ -24,7 +24,7 @@ Python 3.xVS Code (recommended) or any Python IDEDependenciesInstall the require
 Repository Structurecpa_attack.py: The main Python script execution logic.plaintext.csv: Input data used during the encryption simulation.traces.csv: Recorded power consumption traces.
 
 💻 Usage :
-Clone the repository:Bashgit clone https://github.com/YOUR_USERNAME/AES-128-CPA-Attack.git
+Clone the repository: Bashgit clone [https://github.com/YOUR_USERNAME/AES-128-CPA-Attack.git](https://github.com/kunalofficial687/Correlation-Power-Analysis.git)
 Navigate to the project folder:Bashcd AES-128-CPA-Attack
 Run the attack:Bashpython cpa_attack.py
 
